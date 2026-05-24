@@ -43,36 +43,6 @@ I'm a Full Stack Developer specializing in the **MERN stack and Next.js**, with 
 `Git` `Docker` `Postman` `Vercel` `Linux`
 
 ---
-
-## 🚀 Featured Projects
-
-### 🤖 [AI Mock Interviewer](https://github.com/DevxNadeem/ai-mock-interview)
-> AI-powered interview practice platform with real-time feedback
-
-- Built with **Next.js 14, Groq LPU, Gemini API, PostgreSQL, Drizzle ORM**
-- Real-time, low-latency AI feedback on candidate responses
-- Scalable relational schema for complex interview metadata
-- Fully responsive across mobile and desktop
-
----
-
-### ☁️ [Cloud File Manager](https://github.com/DevxNadeem/cloud-file-manager)
-> Secure cloud-based file management system
-
-- Built with **JavaScript, Node.js**
-- File upload, storage, and management with clean UI
-
----
-
-### 🔗 Social Connect *(Full Stack Social Media Engine)*
-> Feature-rich social platform with real-time interactions
-
-- Built with **TypeScript, MERN Stack, JWT Auth**
-- Bidirectional follow system, real-time post interactions, likes
-- Optimized MongoDB schemas for high-concurrency data fetching
-
----
-
 ## ⚡ LeetCode Stats
 
 | Metric | Value |
@@ -83,14 +53,6 @@ I'm a Full Stack Developer specializing in the **MERN stack and Next.js**, with 
 | 🔥 Hard Problems | 42 |
 | 📊 Medium Problems | 450+ |
 | 📝 Total Submissions | 1000+ |
-
----
-
-## 🤝 Open Source
-
-- Merged **7+ Pull Requests** in community repositories
-- Contributions focused on **async notification systems**, **state management**, and **dark mode implementations**
-- Improved Lighthouse performance scores by **15%** through frontend optimizations
 
 ---
 
